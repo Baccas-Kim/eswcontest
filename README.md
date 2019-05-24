@@ -4,6 +4,6 @@
 
 |||
 |:---:|:---:|
-|[preplanning](./eswcontest/01_Preplanning/readme.md)
+|[preplanning](./01_Preplanning/readme.md)
 |Executing||
 |Controlling||
